@@ -1,5 +1,11 @@
-# first-repo
+# 💻 first-repo
 
-Welcome! This is my first repository for `web Programming 1`
+Welcome to my first repository!
 
-![Course](https://img.shields.io/badge/COURSE-WEB_PROGRAMMING_1-5865F2?style=for-the-badge) ![Status](https://img.shields.io/badge/STATUS-ACTIVE-00B578?style=for-the-badge)
+| 📌 Topic | ℹ️ Details |
+| :--- | :--- |
+| **Course** | Web Programming I |
+| **Status** | 🟢 Active Learning |
+| **Platform** | GitHub / VS Code |
+
+---
